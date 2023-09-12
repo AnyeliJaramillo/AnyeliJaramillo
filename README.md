@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hola mi nombre es Anyeli Jaramillo
-![Alt](https://cdn.icon-icons.com/icons2/2121/PNG/512/avatar_woman_female_girl_people_icon_131282.png)
+![Alt](https://cdn.icon-icons.com/icons2/2121/PNG/512/girl_woman_person_people_avatar_female_icon_131269.png)
 <!--
 **AnyeliJaramillo/AnyeliJaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
