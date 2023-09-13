@@ -1,13 +1,13 @@
 ### HOLA👋
 ### Me llamo  __Anyeli Jaramillo__ 
 ### _Tengo 17 años de edad_
-### _Estudio ingenieria en sistemas en la uniersidad marina_
-### _cursando el programa de ingenieria de sitemas_
+### _Estudio en la uniersidad marina_
+### _Me encuentro cursando el programa de ingenieria de sitemas_
 ### _Atualmmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
 ## *_Datos curiosos  de mi persoalidad:_*
 * Facilidad en relacionarme con las demas personas
 * Siempre tener una mentalidad optimista
-* Perseverancia
+* conseguir las metas personales con perseverancia
 ### Para las proyecciones a futuro me interesa logarar desarrollarme en 
 
 
