@@ -4,7 +4,11 @@
 ### _Estudio ingenieria en sistemas en la uniersidad marina_
 ### _cursando el programa de ingenieria de sitemas_
 ### _Atualmmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
-## *_Datos curiosos  de mi persoalidad son:_*
+## *_Datos curiosos  de mi persoalidad:_*
+* Facilidad en relacionarme con las demas personas
+* Siempre tener una mentalidad optimista
+* Perseverancia
+### Para las proyecciones a futuro me interesa logarar desarrollarme en 
 
 
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cGaClVSI1h_t-G0DTP1rEv5XE9hpDsu6qCdRBkDWk0_12ZbuB7WfixhTqZNo9vnBcfg&usqp=CAU)
