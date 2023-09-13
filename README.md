@@ -3,7 +3,8 @@
 ### _Tengo 17 años de edad_
 ### _Estudio ingenieria en sistemas en la uniersidad marina_
 ### _cursando el programa de ingenieria de sitemas_
-#### _Atualmmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
+### _Atualmmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
+## *_Datos curiosos  de mi persoalidad son:_*
 
 
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cGaClVSI1h_t-G0DTP1rEv5XE9hpDsu6qCdRBkDWk0_12ZbuB7WfixhTqZNo9vnBcfg&usqp=CAU)
