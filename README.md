@@ -1,6 +1,7 @@
 ### HOLA👋
-### __Me llamo Anyeli Jaramillo__ 
+### Me llamo __ Anyeli Jaramillo__ 
 ### _Tengo 17 años de edad_
+### Estudio ingenieria en sistemas en la uniersidad marina 
 
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cGaClVSI1h_t-G0DTP1rEv5XE9hpDsu6qCdRBkDWk0_12ZbuB7WfixhTqZNo9vnBcfg&usqp=CAU)
 <!--
