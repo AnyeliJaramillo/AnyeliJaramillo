@@ -1,6 +1,6 @@
 ### HOLA👋
 ### Me llamo  __Anyeli Jaramillo__ 
-![Alt](https://png.pngtree.com/png-clipart/20220111/ourlarge/pngtree-black-hair-illustration-of-the-little-girl-s-head-png-image_4206078.png)  
+![Alt](https://png.pngtree.com/png-vector/20220817/ourmid/pngtree-cartoon-women-long-hair-avatar-vector-ilustration-png-image_6110778.png)  
 
 # 💫 Acerca de mi:
 Tengo 17 años de edad<br>estudio en la universidad mariana<br>Actualmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades.<br>
