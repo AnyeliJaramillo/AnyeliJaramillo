@@ -5,9 +5,9 @@
 # 💫 Acerca de mi:
 Tengo 17 años de edad<br>estudio en la universidad mariana<br>Actualmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades.<br>
 # Datos curiosos de mi personalidad:
-<br>*Facilidad para relacionarme con las demas personas.
-<br>*Siempre tengo una mentalidad optimista.
-<br>*conseguir las metas personales con perseverancia
+<br>* Facilidad para relacionarme con las demas personas.
+<br>* Siempre tengo una mentalidad optimista.
+<br>* Conseguir las metas personales con perseverancia
 
 
 
