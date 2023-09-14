@@ -1,16 +1,6 @@
 ### HOLA👋
 ### Me llamo  __Anyeli Jaramillo__ 
-![Alt](https://e7.pngegg.com/pngimages/517/749/png-clipart-computer-icons-user-profile-avatar-woman-young-child-face.png)
-### _Tengo 17 años de edad_
-### _Estudio en la universidad mariana_
-### _Me encuentro cursando el programa de ingenieria de sistemas_
-### *_El funcionmiento de ingenieria en sistemas muestra tener ramas muy intereantes_* 
-### _Actualmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
-## *_Datos curiosos de mi personalidad:_*
-* Facilidad en relacionarme con las demas personas
-* Siempre tengo una mentalidad optimista
-* conseguir las metas personales con perseverancia
-###  
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWGmU6TlPZDnuVu2oXBQWuc6XD-S9nGyzrQ&usqp=CAU)  
 
 # 💫 Acerca de mi:
 Tengo 17 años de edad<br>estudio en la universidad mariana<br>Actualmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades.<br>
