@@ -1,17 +1,17 @@
 ### HOLA👋
 ### Me llamo  __Anyeli Jaramillo__ 
-### _Tengo 17 años de edad_
-### _Estudio en la uniersidad marina_
-### _Me encuentro cursando el programa de ingenieria de sitemas_
-### _Atualmmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
-## *_Datos curiosos  de mi persoalidad:_*
-* Facilidad en relacionarme con las demas personas
-* Siempre tener una mentalidad optimista
-* conseguir las metas personales con perseverancia
-### Para las proyecciones a futuro me interesa logarar desarrollarme en 
-
-
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cGaClVSI1h_t-G0DTP1rEv5XE9hpDsu6qCdRBkDWk0_12ZbuB7WfixhTqZNo9vnBcfg&usqp=CAU)
+### _Tengo 17 años de edad_
+### _Estudio en la universidad mariana_
+### _Me encuentro cursando el programa de ingenieria de sistemas_
+### *_El funcionmiento de ingenieria en sistemas muestra tener ramas muy intereantes_* 
+### _Actualmente estoy aprendiendo a usar la herramienta de github y sus diversas variedades_
+## *_Datos curiosos de mi personalidad:_*
+* Facilidad en relacionarme con las demas personas
+* Siempre tengo una mentalidad optimista
+* conseguir las metas personales con perseverancia
+###  
+
 <!--
 **AnyeliJaramillo/AnyeliJaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
