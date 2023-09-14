@@ -1,6 +1,6 @@
 ### HOLA👋
 ### Me llamo  __Anyeli Jaramillo__ 
-![Alt](https://static.vecteezy.com/system/resources/previews/011/459/669/original/people-avatar-icon-png.png)
+![Alt](https://e7.pngegg.com/pngimages/517/749/png-clipart-computer-icons-user-profile-avatar-woman-young-child-face.png)
 ### _Tengo 17 años de edad_
 ### _Estudio en la universidad mariana_
 ### _Me encuentro cursando el programa de ingenieria de sistemas_
