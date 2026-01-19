@@ -47,7 +47,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:vanesajaramilloluna@gmail.com">
+ <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vanesajaramilloluna@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
