@@ -1,27 +1,30 @@
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <h3 align="center">
- Hola, bienveni@s
+ Hello, welcome everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" >
+    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod">
+  </a>
 </p>
 
 ---
 
-- Soy estudiante de Ingenieria de Sistemas en la Universidad Mariana de San Juan de Pasto. 
-- Estoy cursando septimo semestre.
-- Realizo desarrollos de Full Stack.
-- Experiencia en desarrollo de aplicaciones web modernas en pequeña escala.
-- Disfruto el aprendizaje de la carrera, ademas siempre estoy en constante evolución de mis habilidades y apendizaje.
-- Datos curiosos: Mi pasatiempo peferido es ver novelas, practico ejercicio y me encanta cocinar recetas nuevas. 
-- Estoy profundizando en el aprendizaje automático y la IA.
+- I am a Systems Engineering student at Universidad Mariana in San Juan de Pasto.
+- I am currently in my seventh semester.
+- I develop Full Stack solutions.
+- Experience in developing modern small-scale web applications.
+- I enjoy learning in my career and I am always constantly improving my skills and knowledge.
+- Fun facts: My favorite hobby is watching soap operas, I exercise regularly, and I love cooking new recipes.
+- I am deepening my knowledge in Machine Learning and Artificial Intelligence.
 
-### 🔧 Languages
+### Languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino" />
@@ -37,7 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
  
 ---
-### Desarrollos web 
+### Web Development
 -
 
 ### 🔗 &nbsp;Contact Me
