@@ -40,7 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
  
 ---
-### Webs Development
+### Web Development
 -
 
 ### 🔗 &nbsp;Contact Me
