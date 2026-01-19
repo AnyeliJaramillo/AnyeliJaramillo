@@ -25,8 +25,6 @@
 - Datos curiosos: Mi pasatiempo peferido es ver novelas, practico ejercicio y me encanta cocinar recetas nuevas. 
 - Estoy profundizando en el aprendizaje automático y la IA.
 
-## 🛠 &nbsp;Tech Stack
-
 ### 🔧 Languages
 <p>
   <a href="https://skillicons.dev">
@@ -43,6 +41,8 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
  
 ---
+### Desarrollos web 
+-
 
 ### 🔗 &nbsp;Contact Me
 
