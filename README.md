@@ -26,7 +26,7 @@
 ### Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino,dart,php,c#,laravel" />
   </a>
 </p>
 
