@@ -8,15 +8,15 @@
 
 ---
 
-- 🎓 Systems Engineering student at Universidad Mariana.
-- 💻 Full Stack developer.
-- 🚀 Passionate about modern web applications.
-- 🧠 Learning Artificial Intelligence & Machine Learning.
-- ⚡ Experience with Angular, Laravel, Node.js, MongoDB and MySQL.
+-  Systems Engineering student at Universidad Mariana.
+-  Full Stack developer.
+-  Passionate about modern web applications.
+-  Learning Artificial Intelligence & Machine Learning.
+-  Experience with Angular, Laravel, Node.js, MongoDB and MySQL.
 
 ---
 
-# 🚀 Technologies & Tools
+#  Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
 
 ---
 
-# 🌐 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 <img width="100" src="./assets/logo-tesis.png"/>
 
-<h3>🎓 Value Added System</h3>
+<h3>Value Added System</h3>
 
 <p>
 Academic platform developed with Laravel and MySQL for student management, Saber test processing and institutional value-added analysis.
@@ -53,7 +53,7 @@ Academic platform developed with Laravel and MySQL for student management, Saber
 
 <img width="100" src="./assets/logo-todoapp.png"/>
 
-<h3>📋 TodoAppDev</h3>
+<h3> TodoAppDev</h3>
 
 <p>
 Task and project management platform with roles, dashboards, priorities, reports and authentication using Angular, Node.js and MongoDB.
@@ -69,7 +69,7 @@ Task and project management platform with roles, dashboards, priorities, reports
 
 <img width="100" src="./assets/logo-nomina.png"/>
 
-<h3>💰 NominaPro</h3>
+<h3> NominaPro</h3>
 
 <p>
 Interactive payroll calculator in English with animated UI for payroll, deductions and Colombian labor calculations.
@@ -86,21 +86,8 @@ Interactive payroll calculator in English with animated UI for payroll, deductio
 
 </div>
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyeliJaramillo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔗 Contact Me
+#  Contact Me
 
 <div align="center">
 
