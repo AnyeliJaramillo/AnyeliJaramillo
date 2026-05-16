@@ -1,3 +1,34 @@
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
+
+<h3 align="center">
+ Hello, welcome everyone
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+---
+
+- I am a Systems Engineering student at Universidad Mariana in San Juan de Pasto.
+- I am currently in my seventh semester.
+- I develop Full Stack solutions.
+- Experience in developing modern small-scale web applications.
+- I enjoy learning in my career and I am always constantly improving my skills and knowledge.
+- Fun facts: My favorite hobby is watching soap operas, I exercise regularly, and I love cooking new recipes.
+- I am deepening my knowledge in Machine Learning and Artificial Intelligence.
+
+---
+
+# 🚀 Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino,dart,php,c,laravel,nodejs,express" />
+  </a>
+</p>
+
+---
+
 # 🌐 Featured Projects
 
 <div align="center">
@@ -14,12 +45,12 @@
 <h2>🎓 Sistema de Valor Agregado</h2>
 
 <p align="justify">
-Plataforma web desarrollada como proyecto de tesis universitaria orientada a la gestión y análisis académico de estudiantes universitarios.  
-El sistema permite administrar información estudiantil, realizar carga masiva de datos, procesar resultados de las pruebas Saber 11 y Saber Pro mediante extracción de información PDF y generar reportes académicos para el cálculo de valor agregado institucional.
+Plataforma web desarrollada como proyecto de tesis universitaria orientada a la gestión y análisis académico de estudiantes universitarios.
+El sistema permite administrar información estudiantil, realizar carga masiva de datos, procesar resultados de las pruebas Saber 11 y Saber Pro mediante extracción automática de información PDF y generar reportes académicos para el cálculo de valor agregado institucional.
 </p>
 
 <p align="justify">
-La aplicación fue desarrollada con Laravel, MySQL y AdminLTE, incorporando autenticación, roles administrativos, exportación Excel y despliegue en la nube mediante Railway.
+La aplicación fue desarrollada con Laravel, MySQL y AdminLTE, incorporando autenticación, roles administrativos, exportación Excel, carga de archivos y despliegue en la nube mediante Railway.
 </p>
 
 <br>
@@ -41,7 +72,7 @@ La aplicación fue desarrollada con Laravel, MySQL y AdminLTE, incorporando aute
 <h2>📋 TodoAppDev</h2>
 
 <p align="justify">
-Sistema Full Stack para la gestión de proyectos y tareas orientado al trabajo colaborativo en equipos de desarrollo.  
+Sistema Full Stack para la gestión de proyectos y tareas orientado al trabajo colaborativo en equipos de desarrollo.
 La plataforma permite administrar usuarios, proyectos y tareas mediante roles de administrador e ingeniero, facilitando la organización y seguimiento de actividades de manera visual e interactiva.
 </p>
 
@@ -96,4 +127,42 @@ NominaPro was developed using Angular, Node.js and Express, featuring animated i
 </tr>
 </table>
 
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyeliJaramillo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔗 Contact Me
+
+<div align="center">
+
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vanesajaramilloluna@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anyeli-jaramillo-0717a9295">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/a.nyeli_">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 </div>
