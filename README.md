@@ -3,19 +3,16 @@
 </div>
 
 <h3 align="center">
- Hello, welcome everyone
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Hola, bienvenidos todos 👋
 </h3>
 
 ---
 
-- I am a Systems Engineering student at Universidad Mariana in San Juan de Pasto.
-- I am currently in my seventh semester.
-- I develop Full Stack solutions.
-- Experience in developing modern small-scale web applications.
-- I enjoy learning in my career and I am always constantly improving my skills and knowledge.
-- Fun facts: My favorite hobby is watching soap operas, I exercise regularly, and I love cooking new recipes.
-- I am deepening my knowledge in Machine Learning and Artificial Intelligence.
+- 🎓 Systems Engineering student at Universidad Mariana.
+- 💻 Full Stack developer.
+- 🚀 Passionate about modern web applications.
+- 🧠 Learning Artificial Intelligence & Machine Learning.
+- ⚡ Experience with Angular, Laravel, Node.js, MongoDB and MySQL.
 
 ---
 
@@ -23,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino,dart,php,c,laravel,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=angular,laravel,nodejs,express,mongodb,mysql,php,js,ts,java,python,git,github,vscode,html,css,tailwind,aws" />
   </a>
 </p>
 
@@ -38,89 +35,49 @@
 
 <td width="33%" align="center">
 
-<br>
+<img width="100" src="./assets/logo-tesis.png"/>
 
-<img width="120" src="AQUI_LOGO_PROYECTO_1"/>
+<h3>🎓 Value Added System</h3>
 
-<h2>🎓 Sistema de Valor Agregado</h2>
-
-<p align="justify">
-Plataforma web desarrollada como proyecto de tesis universitaria orientada a la gestión y análisis académico de estudiantes universitarios.
-El sistema permite administrar información estudiantil, realizar carga masiva de datos, procesar resultados de las pruebas Saber 11 y Saber Pro mediante extracción automática de información PDF y generar reportes académicos para el cálculo de valor agregado institucional.
+<p>
+Academic platform developed with Laravel and MySQL for student management, Saber test processing and institutional value-added analysis.
 </p>
-
-<p align="justify">
-La aplicación fue desarrollada con Laravel, MySQL y AdminLTE, incorporando autenticación, roles administrativos, exportación Excel, carga de archivos y despliegue en la nube mediante Railway.
-</p>
-
-<br>
 
 <a href="https://valor-agregado-laravel-production.up.railway.app/estudiantes/gestion">
 <img src="https://img.shields.io/badge/View_Project-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </a>
 
-<br><br>
-
 </td>
 
 <td width="33%" align="center">
 
-<br>
+<img width="100" src="./assets/logo-todoapp.png"/>
 
-<img width="120" src="AQUI_LOGO_PROYECTO_2"/>
+<h3>📋 TodoAppDev</h3>
 
-<h2>📋 TodoAppDev</h2>
-
-<p align="justify">
-Sistema Full Stack para la gestión de proyectos y tareas orientado al trabajo colaborativo en equipos de desarrollo.
-La plataforma permite administrar usuarios, proyectos y tareas mediante roles de administrador e ingeniero, facilitando la organización y seguimiento de actividades de manera visual e interactiva.
+<p>
+Task and project management platform with roles, dashboards, priorities, reports and authentication using Angular, Node.js and MongoDB.
 </p>
-
-<p align="justify">
-Incluye semaforización de prioridades, dashboard dinámico, reportes mensuales exportables en PDF y Excel, autenticación JWT, recuperación de contraseña, notificaciones visuales y diseño responsive con modo oscuro.
-</p>
-
-<p align="justify">
-El frontend fue desarrollado con Angular y TailwindCSS, mientras que el backend fue construido con Node.js, Express y MongoDB Atlas.
-</p>
-
-<br>
 
 <a href="https://todo-app-front-three.vercel.app/login">
 <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=angular&logoColor=white"/>
 </a>
 
-<br><br>
-
 </td>
 
 <td width="33%" align="center">
 
-<br>
+<img width="100" src="./assets/logo-nomina.png"/>
 
-<img width="120" src="AQUI_LOGO_PROYECTO_3"/>
+<h3>💰 NominaPro</h3>
 
-<h2>💰 NominaPro</h2>
-
-<p align="justify">
-Interactive payroll calculation platform developed entirely in English with a modern and dynamic user interface inspired by fintech applications.
+<p>
+Interactive payroll calculator in English with animated UI for payroll, deductions and Colombian labor calculations.
 </p>
-
-<p align="justify">
-The system allows companies and employees to calculate payroll costs, labor deductions, social security contributions, ARL, parafiscal payments and contractor fees according to Colombian labor legislation.
-</p>
-
-<p align="justify">
-NominaPro was developed using Angular, Node.js and Express, featuring animated interfaces, floating visual effects, responsive design and cloud deployment using Vercel and Render.
-</p>
-
-<br>
 
 <a href="https://nomina-front.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<br><br>
 
 </td>
 
@@ -129,13 +86,15 @@ NominaPro was developed using Angular, Node.js and Express, featuring animated i
 
 </div>
 
+---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyeliJaramillo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -145,7 +104,7 @@ src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_ic
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vanesajaramilloluna@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=vanesajaramilloluna@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
