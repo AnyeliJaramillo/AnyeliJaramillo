@@ -131,13 +131,26 @@ NominaPro was developed using Angular, Node.js and Express, featuring animated i
 
 ---
 
+# 💻 Current Focus
+
+<div align="center">
+
+| Learning | Development | Interests |
+|---|---|---|
+| Machine Learning | Full Stack Apps | Artificial Intelligence |
+| Angular & Laravel | Cloud Deployments | UI/UX Design |
+| Node.js APIs | Responsive Systems | Modern Web Technologies |
+
+</div>
+
+---
+
 # 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyeliJaramillo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AnyeliJaramillo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </div>
 
